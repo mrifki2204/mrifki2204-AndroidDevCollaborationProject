@@ -1,4 +1,4 @@
-ame: CI/CD AndroidDev
+name: CI/CD AndroidDev
 
 on:
   push:
